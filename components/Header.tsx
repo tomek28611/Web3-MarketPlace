@@ -69,7 +69,7 @@ function Header({ }: Props) {
             <section className='flex justify-center space-x-6 text-xs md:text-sm px-6 py-3'>
                     <p className="link">Home</p>
                     <p className="link">Electronics</p>
-                    <p className="link">Computers</p>
+                    <p className="link">Computers</p> 
                     <p className="link hidden sm:inline">Games</p>
                     <p className="link hidden sm:inline">Garden</p>
                     <p className="link hidden md:inline">Health</p>
